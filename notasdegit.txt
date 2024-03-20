@@ -3,3 +3,5 @@ comando 'init' nos sirve para inicializar un repositorio SI ESTA VACIO
 Rutina de guardado 
 
 status: nos muestra el estado de la rama de guardado
+add . : nos agrega los archivos a la rama de trabajo 
+commit -m "mensajer": crea el punto de guardado 
